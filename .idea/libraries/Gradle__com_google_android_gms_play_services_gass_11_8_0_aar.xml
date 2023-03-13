@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-gass:11.8.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-3/43804177f9d98b5a12f7bdaa57b7e7d2/transformed/play-services-gass-11.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-3/43804177f9d98b5a12f7bdaa57b7e7d2/transformed/play-services-gass-11.8.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-3/43804177f9d98b5a12f7bdaa57b7e7d2/transformed/play-services-gass-11.8.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
